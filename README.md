@@ -6,13 +6,12 @@ This repo is a model for my current ece bench, and to plan upgrades to. Hopefull
 
 This design came from a need for a cat safe place to do electronics stuff.
 
+CAD preview:
+![CAD](./assets/cad.png)
+
 Finished look
 
 ![bench_real](./assets/20260831_194814.jpg)
-![bench_real2](./assets/20260831_194749.jpg)
-
-CAD preview:
-![CAD](./assets/cad.png)
 
 # Note
 

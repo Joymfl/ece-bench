@@ -6,6 +6,7 @@ This repo is a model for my current ece bench, and to plan upgrades to. Hopefull
 
 This design came from a need for a cat safe place to do electronics stuff.
 
+
 CAD preview:
 ![CAD](./assets/cad.png)
 
@@ -18,6 +19,7 @@ Finished look
 1. The CAD model doesn't include doors or service holes
 2. The large open backplate was originally for a monitor mount, but the idea has been dropped since then
 3. No tech sheet yet, planned to add
+4. Works on Freecad v 1.1.3
 
 # Drawbacks
 

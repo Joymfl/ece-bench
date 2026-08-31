@@ -18,6 +18,7 @@ CAD preview:
 
 1. The CAD model doesn't include doors or service holes
 2. The large open backplate was originally for a monitor mount, but the idea has been dropped since then
+3. No tech sheet yet, planned to add
 
 # Drawbacks
 

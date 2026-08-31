@@ -26,6 +26,6 @@ CAD preview:
 
 2. The workbench is far too low. And the gap between the work area and Shelf001 (in the cad model), is too little in my opinion. I wish I raised the work area a bit, to give more of a gap for storage units
 
-3. _DO NOT_ attempt to solder in this space. The cutouts for fans on the right panel are great, but I've only been able to place PC fans on it. It's no where near enough to move solder fumes out of it, and the work area gets really constrained if you place a fume extractor there. I personally, keep my soldering units on shelf001 and move it out to benchtop when needed
+3. _DO NOT_ attempt to solder in this space. The cutouts for fans on the right panel are great, but I've only been able to place PC fans on it. It's no where near enough to move solder fumes out of it, and the work area gets really constrained if you place a fume extractor there. I personally, keep my soldering units on shelf001 and move it out to benchtop when needed. it seems to be enough for ambient temp management
 
 4. Although it fits a PSU, scope and a function generator, the plan is to add shelving units to extend upwards
